@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Арефкина Е.П.
+(https://colab.research.google.com/drive/1ieco5CSxsM5NM6lMA3bfa1YNrmv951S3#scrollTo=9Dpv_9sEzGV-)
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
